@@ -1,5 +1,2 @@
-# golden_forest_logistics
-This is the website for Golden Forest Logistics Company Limited which deals with freight forwarding, 
-customs clearing, warehousing, trucking and distribution across Eastern Africa. We focus on serving  
-customers with global sourcing and supply-chain-management needs;  
-through creating values and innovative end-to-end international logistics services.
+# Coming Soon
+A "Coming Soon" website, also known as an "Under Construction" or "Teaser" website, is a temporary web page that is set up by businesses, individuals, or organizations to announce the impending launch of a new website or project. It serves as a placeholder to inform visitors that something new and exciting is on the way, even though the full website content or functionality is not yet available.
